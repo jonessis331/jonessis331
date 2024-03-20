@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan Essis! <br/><a</a> <a href="www.linkedin.com/in/jonathan-essis-923a5a1b4/">Software Engineer</a> <a </h1>
+<h1>Hi, I'm Jonathan Essis! <br/><a</a> <a href="https://www.linkedin.com/in/jonathan-essis-923a5a1b4/">Software Engineer</a> <a </h1>
 
 <h2>My Favorite Coding Projects</h2>
 
@@ -22,9 +22,9 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [spotify]: https://open.spotify.com/artist/1bYy0fLTRbLOJyrP76nGv4?si=ImGamRaoSXyieFS3p8nghg
-[youtube]: [https://twitter.com](https://www.youtube.com/@flooringco.4481)
+[youtube]: [https://twitter.com](https://www.youtube.com/@flooringco.4481]
 [instagram]: https://www.instagram.com/jonathanessis_/
-[linkedin]: www.linkedin.com/in/jonathan-essis-923a5a1b4
+[linkedin]: https://www.linkedin.com/in/jonathan-essis-923a5a1b4
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
