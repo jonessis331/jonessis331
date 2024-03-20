@@ -16,13 +16,13 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com
-[youtube]: https://www.youtube.com/@flooringco.4481
+[spotify]: https://open.spotify.com/artist/1bYy0fLTRbLOJyrP76nGv4?si=ImGamRaoSXyieFS3p8nghg
+[youtube]: [https://twitter.com](https://www.youtube.com/@flooringco.4481)
 [instagram]: https://www.instagram.com/jonathanessis_/
 [linkedin]: https://linkedin.com/in/jonathan-essis-92/
 
