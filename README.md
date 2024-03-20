@@ -9,10 +9,10 @@
 - <b>Matlab Machine Learning</b>
   - [Autonomous Quadrotor](https://github.com/jonessis331/autonomousQuadrotor)
 
-- <b>C</b>
+- <b>C Language</b>
   - [Concurrency Channels](https://github.com/jonessis331/concurrency) <b><i></b></i>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
