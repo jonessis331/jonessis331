@@ -1,6 +1,10 @@
 <h1>Hi, I'm Jonathan Essis! <br/><a</a> <a href="https://www.linkedin.com/in/jonathan-essis-923a5a1b4/">Software Engineer</a> <a </h1>
 
-<h2>My Favorite Coding Projects</h2>
+<h2>Coding Projects</h2>
+
+- <b>Full Stack Mobile Fashion recommendation App</b>
+  - [React Native & Node.js](https://github.com/jonessis331/OOTD)
+  - [Python Siemese Network Outfit Generator](https://github.com/jonessis331/outfitgenerator)
 
 - <b>Python Machine Learning</b>
   - [Naive Bayes Spam Filter](https://github.com/jonessis331/spamfilter)
