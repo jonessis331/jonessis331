@@ -8,7 +8,7 @@
 
 - <b>Python Machine Learning</b>
   - [Naive Bayes Spam Filter](https://github.com/jonessis331/spamfilter)
-  - [Search Algorithm Puzzles](https://github.com/jonessis331/puzzle_game)
+  - [A* Search Algorithm](https://github.com/jonessis331/puzzle_game)
 - <b>Python SQL Database Managment<p>
   - [Lion Auction](https://github.com/jonessis331/lionauction)
 
