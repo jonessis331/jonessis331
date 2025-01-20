@@ -12,7 +12,7 @@
 - <b>Python SQL Database Managment<p>
   - [Lion Auction](https://github.com/jonessis331/lionauction)
 
-- <b>Matlab Machine Learning</b>
+- <b>Aerospace Machine Learning</b>
   - [Autonomous Quadrotor](https://github.com/jonessis331/autonomousQuadrotor)
 
 - <b>C Language</b>
