@@ -13,7 +13,7 @@
   - [Lion Auction](https://github.com/jonessis331/lionauction)
 
 - <b>Aerospace Machine Learning</b>
-  - [Autonomous Quadrotor](https://github.com/jonessis331/autonomousQuadrotor)
+  - [Autonomous Quadrotor Simulation](https://github.com/jonessis331/autonomousQuadrotor)
 
 - <b>C Language</b>
   - [Concurrency Channels](https://github.com/jonessis331/concurrency) <b><i></b></i>
