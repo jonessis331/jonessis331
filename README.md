@@ -2,7 +2,7 @@
 
 <h2>Coding Projects</h2>
 
-- <b>Full Stack Mobile Fashion recommendation App</b>
+- <b>Full Stack Mobile Fashion recommendation App (PRIVATE)</b>
   - [React Native & Node.js](https://github.com/jonessis331/OOTD)
   - [Python Siemese Network Outfit Generator](https://github.com/jonessis331/outfitgenerator)
 
