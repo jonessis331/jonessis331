@@ -2,9 +2,9 @@
 
 <h2>Coding Projects</h2>
 
-- <b>Full Stack Mobile Fashion recommendation App (PRIVATE)</b>
+- <b>Full Stack Mobile Fashion recommendation App </b>
   - [React Native & Node.js](https://github.com/jonessis331/OOTD)
-  - [Python Siemese Network Outfit Generator](https://github.com/jonessis331/outfitgenerator)
+  - [Python Siemese Network Outfit Generator (PRIVATE)](https://github.com/jonessis331/outfitgenerator)
 
 - <b>Python Machine Learning</b>
   - [Naive Bayes Spam Filter](https://github.com/jonessis331/spamfilter)
