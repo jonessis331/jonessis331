@@ -3,14 +3,14 @@
 <h2>Coding Projects</h2>
 
 - <b>Full Stack Mobile Fashion recommendation App </b>
-  - [React Native & Node.js (PRIVATE)](https://github.com/jonessis331/OOTD)
+  - [React Native, Node.js, & PostgreSQL (PRIVATE)](https://github.com/jonessis331/OOTD)
   - [Python Siemese Network Outfit Generator](https://github.com/jonessis331/outfitgenerator)
 
 - <b>Python Machine Learning</b>
   - [Naive Bayes Spam Filter](https://github.com/jonessis331/spamfilter)
   - [A* Search Algorithm](https://github.com/jonessis331/puzzle_game)
-- <b>Python SQL Database Managment<p>
-  - [Lion Auction](https://github.com/jonessis331/lionauction)
+- <b>Relational Database Management<p>
+  - [Python, Flask, & SQL](https://github.com/jonessis331/lionauction)
 
 - <b>Aerospace Machine Learning</b>
   - [Autonomous Quadrotor Simulation](https://github.com/jonessis331/autonomousQuadrotor)
