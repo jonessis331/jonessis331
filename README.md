@@ -3,7 +3,7 @@
 <h2>Coding Projects</h2>
 
 - <b>AI Recommendation Engine</b>
-  - [Python Siemese Network Outfit Generator](https://github.com/jonessis331/outfitgenerator)
+  - [Python Siemese Neural Network Outfit Generator](https://github.com/jonessis331/outfitgenerator)
 
 - <b>Python Machine Learning</b>
   - [Naive Bayes Spam Filter](https://github.com/jonessis331/spamfilter)
