@@ -2,8 +2,7 @@
 
 <h2>Coding Projects</h2>
 
-- <b>Full Stack Mobile Fashion recommendation App </b>
-  - [React Native, Node.js, & PostgreSQL (PRIVATE)](https://github.com/jonessis331/OOTD)
+- <b>AI Recommendation Engine</b>
   - [Python Siemese Network Outfit Generator](https://github.com/jonessis331/outfitgenerator)
 
 - <b>Python Machine Learning</b>
